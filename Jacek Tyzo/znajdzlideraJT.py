@@ -14,5 +14,4 @@ def znajdzlidera(arr):
     if ile > len(arr) // 2:
         return lider
 
-print(znajdzlidera([1,2,2,2,2,2,2,3,1,1])) 
-   
+print(znajdzlidera([1,2,1,1,3,1,1])) 
